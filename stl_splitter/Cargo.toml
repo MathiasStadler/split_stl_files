@@ -1,0 +1,9 @@
+[package]
+name = "stl_splitter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+stl_io = "0.8.5"
+nalgebra = "0.33.0"
+anyhow = "1.0"
